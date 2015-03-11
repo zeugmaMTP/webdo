@@ -16,6 +16,6 @@ Juste quelques notes pour les dev:
 
 - Utiliser les sessions QUE pour idUtilisateur et les messages d'erreur
 
-- Le nom des tables et des champs dans les requetes sont en caisse *sensitive* donc attention a bien les orthographier
+- Le nom des tables et des champs dans les requetes sont en casse *sensitive* donc attention a bien les orthographier
 
 - Pour acceder aux variables de post et de get, il faut utiliser get_param('var')
